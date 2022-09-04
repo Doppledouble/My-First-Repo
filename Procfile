@@ -1,0 +1,1 @@
+web: gunicorn PROJEKATLAS.wsgi --log-file -
